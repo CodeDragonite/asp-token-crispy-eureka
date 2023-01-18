@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HT2ZpIwSqERaxGnYHF036fXuQyw0aYLfoP1f6SBuhic=",
+  "Source": "TokenAuthAPI",
+  "BasePath": "_content/TokenAuthAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
